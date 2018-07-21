@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+# Profile
 
-You can use the [editor on GitHub](https://github.com/younippon/younippon.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+![プロフィール画像](https://avatars0.githubusercontent.com/u/2562552?s=240&v=4)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 佐々木耀
 
-### Markdown
+1991年生まれ。宮城県出身。
+情報科学芸術大学院大学修士1年。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Biography
 
-```markdown
-Syntax highlighted code block
+準備中
 
-# Header 1
-## Header 2
-### Header 3
+## Works
 
-- Bulleted
-- List
+準備中
 
-1. Numbered
-2. List
+## Social
 
-**Bold** and _Italic_ and `Code` text
+[Twitter](https://twitter.com/younipponn)
 
-[Link](url) and ![Image](src)
-```
+## Docs
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/younippon/younippon.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[github勉強会@IAMAS](/github)
